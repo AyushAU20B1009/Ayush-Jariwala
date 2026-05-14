@@ -1,234 +1,218 @@
-# 🚀 Ayush Jariwala — Developer Portfolio
+<div align="center">
 
-A futuristic cyberpunk-inspired developer portfolio built with modern UI aesthetics, immersive visuals, smooth interactions, and performance-focused architecture.
+# AYUSH JARIWALA
 
-Designed to showcase:
-- Flutter Development
-- Full-Stack Engineering
-- AI Systems
-- Interactive Experiences
-- Real-Time Rendering
-- Projection Mapping Technologies
+### Flutter Developer • Full-Stack Engineer • AI Systems Builder
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full-Stack+Engineer;AI+Systems+Builder;Projection+Mapping+Developer;Interactive+Experience+Engineer" />
 
-# 🌐 Live Portfolio
+<br>
 
-🔗 https://project-zy3h8.vercel.app/
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20REALTIME%20SYSTEMS-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-F472B6?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# SYSTEM.INFO
 
-Hi, I'm **Ayush Jariwala** — a Flutter Developer and Full-Stack Engineer from India.
+```bash
+> whoami
 
-I specialize in:
-- Scalable Mobile Applications
-- Full-Stack Web Systems
-- AI-Based Architectures
-- Real-Time Interactive Experiences
-- Projection Mapping Systems
-- Performance Optimized Applications
-
-Currently focused on building:
-- AI-powered systems
-- Immersive UI/UX experiences
-- Real-time rendering pipelines
-- Interactive visual technologies
+name      : Ayush Jariwala
+role      : Flutter Developer & Full-Stack Engineer
+experience: 2+ Years
+focus     : AI + Real-time Interactive Systems
+status    : Building
+location  : India
+education : B.Tech CSE
+```
 
 ---
 
-# ⚡ Current Project
-
-## BHANDI MAPPING
-A real-time 3D Projection Mapping ecosystem with:
-- Camera calibration
-- Real-time rendering
-- Interactive mapping
-- AI-assisted workflows
-- Full-stack architecture
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-- Dart
-- JavaScript
-- TypeScript
-- Python
-- C++
-- Java
-
-## Frameworks & Libraries
-- Flutter
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- OpenGL
-
-## Databases & Cloud
-- MongoDB
-- Firebase
-- AWS
-
-## Tools & Platforms
-- GitHub
-- Docker
-- Linux
-- VS Code
-- Figma
-
----
-
-# 📱 Featured Projects
+# CURRENTLY_BUILDING.exe
 
 ## 🚀 BHANDI MAPPING
-Real-time 3D Projection Mapping platform with precision camera calibration and rendering systems.
+
+```yaml
+Project Type:
+  - 3D Projection Mapping Ecosystem
+  - Real-time Rendering Pipeline
+  - Camera Calibration System
+  - Interactive Mapping Engine
+
+Core Stack:
+  - Flutter
+  - Python
+  - OpenGL
+  - Node.js
+  - MongoDB
+
+Focus:
+  - Real-time Graphics
+  - Interactive Systems
+  - Immersive Experiences
+```
+
+---
+
+# TECH_STACK
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,cpp"/>
+
+## Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express"/>
+
+## Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,docker"/>
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,figma"/>
+
+</div>
+
+---
+
+# GITHUB_ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushAU20B1009&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# CONTRIBUTION_ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# FEATURED_PROJECTS
+
+## 🧠 AI MEMORY SYSTEM
+
+```diff
++ Semantic AI Memory Engine
++ Vector Search Architecture
++ Long-Term Memory Retrieval
++ Contextual Similarity Search
++ MongoDB + Pinecone Integration
+```
 
 ### Stack
-- Flutter
-- OpenGL
-- Python
-- Node.js
+`Python` `MongoDB` `FAISS` `Pinecone`
 
 ---
 
-## 🧠 AI Memory System
-Semantic AI chatbot memory engine with vector search and contextual retrieval architecture.
+## 🌐 PORTFOLIO SYSTEM
 
-### Features
-- Vector embeddings
-- Semantic retrieval
-- Long-term memory storage
-- Similarity search
-- MongoDB integration
+```diff
++ Cinematic UI
++ Interactive Experience
++ Smooth Motion Architecture
++ Performance Optimized Rendering
++ Modern Retro-Futuristic Design
+```
 
 ### Stack
-- Python
-- MongoDB
-- FAISS
-- Pinecone
+`Next.js` `TailwindCSS` `Framer Motion`
 
 ---
 
-## 🌐 Portfolio Website
-Modern cinematic portfolio with immersive UI and performance-focused animations.
+## ⚙️ FULL-STACK APPLICATIONS
+
+```diff
++ Production Grade MERN Applications
++ Real-time Systems
++ Authentication Architectures
++ Scalable Backend APIs
++ Mobile + Web Ecosystems
+```
 
 ### Stack
-- Next.js
-- Tailwind CSS
-- Framer Motion
+`MongoDB` `Express` `React` `Node.js`
 
 ---
 
-## ⚙️ Full-Stack Applications
-Production-grade scalable MERN stack applications with real-time architecture.
+# FOCUS_AREAS
 
-### Stack
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+<div align="center">
 
----
+| Domain | Expertise |
+|---|---|
+| Mobile Development | Flutter |
+| Frontend Systems | React / Next.js |
+| Backend Systems | Node.js / Python |
+| AI Systems | Memory + Semantic Search |
+| Graphics | OpenGL / Rendering |
+| Databases | MongoDB / Firebase |
+| Architecture | Scalable Full-Stack Systems |
+| UI/UX | Interactive Experiences |
 
-# 📊 GitHub Stats
-
-> Real-time GitHub statistics are dynamically integrated using GitHub APIs and contribution systems.
-
-### Highlights
-- Active open-source contributions
-- Continuous development streaks
-- Multi-language repositories
-- Full-stack project ecosystem
+</div>
 
 ---
 
-# 🎯 Core Focus Areas
+# CONNECT_PROTOCOLS
 
-- Flutter Development
-- Full-Stack Engineering
-- AI Systems
-- Interactive UI/UX
-- Projection Mapping
-- Real-Time Rendering
-- Performance Optimization
-- Scalable Architectures
+<div align="center">
 
----
+<a href="https://project-zy3h8.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-# 📬 Connect With Me
+<a href="https://github.com/AyushAU20B1009">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## GitHub
-🔗 https://github.com/AyushAU20B1009
+<a href="https://www.linkedin.com/in/ayush-jariwala-9aa6321a4">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## LinkedIn
-🔗 https://www.linkedin.com/in/ayush-jariwala-9aa6321a4
+<a href="mailto:ayush.jariwala@avantika.edu.in">
+<img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## HackerRank
-🔗 https://www.hackerrank.com/profile/ayush_jariwala
+<a href="https://www.hackerrank.com/profile/ayush_jariwala">
+<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-## Email
-📧 ayush.jariwala@avantika.edu.in
-
----
-
-# 🚀 Performance & Features
-
-## Features
-- Fully Responsive Design
-- Cyberpunk Retro UI
-- Glassmorphism Effects
-- Smooth Scroll Animations
-- Dynamic GitHub Integration
-- Optimized Rendering
-- SEO Friendly
-- Accessibility Improved
-- Mobile Optimized
-
-## Optimizations
-- Lightweight Architecture
-- GPU-Friendly Effects
-- Lazy Loading
-- Optimized Assets
-- Minimal Dependencies
+</div>
 
 ---
 
-# 🔮 Future Enhancements
+# PHILOSOPHY.md
 
-- Advanced 3D Hero Section
-- Shader-Based Backgrounds
-- Interactive Particle Systems
-- AI Assistant Integration
-- Dynamic CMS Projects
-- Blog System
-- Experience Timeline
-- Interactive Tech Radar
+```txt
+Code is not just what I write —
+it's how I solve problems,
+build ideas,
+and create impact.
+```
 
 ---
 
-# 🧠 Philosophy
+<div align="center">
 
-> “Code is not just what I write — it's how I solve problems, build dreams and create impact.”
+## 🚀 ALWAYS BUILDING
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 
-# 📄 License
-
-This project is created and maintained by **Ayush Jariwala**.
-
-All rights reserved © 2026
-
----
-
-# ⭐ Support
-
-If you like this portfolio:
-- Give the repository a ⭐
-- Connect on LinkedIn
-- Follow my journey 🚀
-
----
+</div>
