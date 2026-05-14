@@ -1,214 +1,234 @@
-<div align="center">
+# 🚀 Ayush Jariwala — Developer Portfolio
 
-# HELLO FOLKS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+A futuristic cyberpunk-inspired developer portfolio built with modern UI aesthetics, immersive visuals, smooth interactions, and performance-focused architecture.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AYUSH+JARIWALA;Flutter+Developer;Full-Stack+Engineer;AI+%26+Interactive+Systems+Builder;Projection+Mapping+Developer" />
-
-### Flutter Developer • Full-Stack Engineer • AI & Interactive Systems Builder
-
-<img src="https://komarev.com/ghpvc/?username=AyushAU20B1009&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://project-zy3h8.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayush-jariwala-9aa6321a4)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayush.jariwala@avantika.edu.in)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushAU20B1009)
-[![HackerRank](https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/ayush_jariwala)
-
-</div>
+Designed to showcase:
+- Flutter Development
+- Full-Stack Engineering
+- AI Systems
+- Interactive Experiences
+- Real-Time Rendering
+- Projection Mapping Technologies
 
 ---
 
-# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30"/> Currently Building
+# 🌐 Live Portfolio
 
-<table>
-<tr>
-<td width="50%">
+🔗 https://project-zy3h8.vercel.app/
+
+---
+
+# 👨‍💻 About Me
+
+Hi, I'm **Ayush Jariwala** — a Flutter Developer and Full-Stack Engineer from India.
+
+I specialize in:
+- Scalable Mobile Applications
+- Full-Stack Web Systems
+- AI-Based Architectures
+- Real-Time Interactive Experiences
+- Projection Mapping Systems
+- Performance Optimized Applications
+
+Currently focused on building:
+- AI-powered systems
+- Immersive UI/UX experiences
+- Real-time rendering pipelines
+- Interactive visual technologies
+
+---
+
+# ⚡ Current Project
+
+## BHANDI MAPPING
+A real-time 3D Projection Mapping ecosystem with:
+- Camera calibration
+- Real-time rendering
+- Interactive mapping
+- AI-assisted workflows
+- Full-stack architecture
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+- Dart
+- JavaScript
+- TypeScript
+- Python
+- C++
+- Java
+
+## Frameworks & Libraries
+- Flutter
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- OpenGL
+
+## Databases & Cloud
+- MongoDB
+- Firebase
+- AWS
+
+## Tools & Platforms
+- GitHub
+- Docker
+- Linux
+- VS Code
+- Figma
+
+---
+
+# 📱 Featured Projects
 
 ## 🚀 BHANDI MAPPING
+Real-time 3D Projection Mapping platform with precision camera calibration and rendering systems.
 
-### 3D Projection Mapping Ecosystem
-
-- Real-time Mapping
-- Camera Calibration
-- Layer Rendering
-- Interactive Surface Mapping
-- AI Assisted Alignment
-- Cross-platform Flutter Architecture
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+### Stack
+- Flutter
+- OpenGL
+- Python
+- Node.js
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/> About Me
+## 🧠 AI Memory System
+Semantic AI chatbot memory engine with vector search and contextual retrieval architecture.
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### Features
+- Vector embeddings
+- Semantic retrieval
+- Long-term memory storage
+- Similarity search
+- MongoDB integration
 
-- 🚀 Flutter Developer & Full-Stack Engineer from India 🇮🇳
-- 💡 Building scalable mobile & web applications
-- 🤖 Passionate about AI Systems & Real-Time Technologies
-- 🎨 Love cinematic UI/UX & immersive experiences
-- 🧠 Building projection mapping & interactive rendering systems
-- ⚡ Experienced with Flutter, MERN, Firebase & AI integrations
-- 🔥 Always building products that create impact
-- 🎯 Focused on performance optimization & smooth UX
-
----
-
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/> Connect With Me
-
-<div align="center">
-
-<a href="mailto:ayush.jariwala@avantika.edu.in">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-jariwala-9aa6321a4">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/AyushAU20B1009">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/ayush_jariwala">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48"/>
-</a>
-
-</div>
+### Stack
+- Python
+- MongoDB
+- FAISS
+- Pinecone
 
 ---
-
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/> Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,mongodb,firebase,python,cpp,java,js,ts,git,github,docker,figma,linux,vscode&perline=9" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"/> GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushAU20B1009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Most Used Languages
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAU20B1009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"/> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyushAU20B1009&theme=discord&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🚀 BHANDI MAPPING
-3D Projection Mapping System with real-time rendering & camera calibration.
-
-**Tech Stack:**  
-Flutter • OpenGL • Firebase • Python
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Memory System
-AI chatbot memory & vector similarity engine using embeddings.
-
-**Tech Stack:**  
-Python • MongoDB • Pinecone
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 
 ## 🌐 Portfolio Website
-Modern cinematic portfolio with smooth interactions & animations.
+Modern cinematic portfolio with immersive UI and performance-focused animations.
 
-**Tech Stack:**  
-Next.js • Tailwind • Framer Motion
-
-</td>
-
-<td width="50%">
-
-## ⚡ Full-Stack Applications
-Scalable MERN stack applications with real-time features.
-
-**Tech Stack:**  
-MongoDB • Express • React • Node.js
-
-</td>
-</tr>
-
-</table>
+### Stack
+- Next.js
+- Tailwind CSS
+- Framer Motion
 
 ---
 
-# <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"/> Fun Zone
+## ⚙️ Full-Stack Applications
+Production-grade scalable MERN stack applications with real-time architecture.
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushAU20B1009&theme=tokyonight" />
-
-</div>
+### Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats
 
-## ⚡ “Code is not just what I write, it's how I build experiences.”
+> Real-time GitHub statistics are dynamically integrated using GitHub APIs and contribution systems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
+### Highlights
+- Active open-source contributions
+- Continuous development streaks
+- Multi-language repositories
+- Full-stack project ecosystem
 
-</div>
+---
+
+# 🎯 Core Focus Areas
+
+- Flutter Development
+- Full-Stack Engineering
+- AI Systems
+- Interactive UI/UX
+- Projection Mapping
+- Real-Time Rendering
+- Performance Optimization
+- Scalable Architectures
+
+---
+
+# 📬 Connect With Me
+
+## GitHub
+🔗 https://github.com/AyushAU20B1009
+
+## LinkedIn
+🔗 https://www.linkedin.com/in/ayush-jariwala-9aa6321a4
+
+## HackerRank
+🔗 https://www.hackerrank.com/profile/ayush_jariwala
+
+## Email
+📧 ayush.jariwala@avantika.edu.in
+
+---
+
+# 🚀 Performance & Features
+
+## Features
+- Fully Responsive Design
+- Cyberpunk Retro UI
+- Glassmorphism Effects
+- Smooth Scroll Animations
+- Dynamic GitHub Integration
+- Optimized Rendering
+- SEO Friendly
+- Accessibility Improved
+- Mobile Optimized
+
+## Optimizations
+- Lightweight Architecture
+- GPU-Friendly Effects
+- Lazy Loading
+- Optimized Assets
+- Minimal Dependencies
+
+---
+
+# 🔮 Future Enhancements
+
+- Advanced 3D Hero Section
+- Shader-Based Backgrounds
+- Interactive Particle Systems
+- AI Assistant Integration
+- Dynamic CMS Projects
+- Blog System
+- Experience Timeline
+- Interactive Tech Radar
+
+---
+
+# 🧠 Philosophy
+
+> “Code is not just what I write — it's how I solve problems, build dreams and create impact.”
+
+---
+
+# 📄 License
+
+This project is created and maintained by **Ayush Jariwala**.
+
+All rights reserved © 2026
+
+---
+
+# ⭐ Support
+
+If you like this portfolio:
+- Give the repository a ⭐
+- Connect on LinkedIn
+- Follow my journey 🚀
+
+---
