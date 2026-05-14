@@ -55,7 +55,9 @@
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/> About Me
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="60%">
 
 - 🚀 Flutter Developer & Full-Stack Engineer from India 🇮🇳
 - 💡 Building scalable mobile & web applications
@@ -65,6 +67,18 @@
 - ⚡ Experienced with Flutter, MERN, Firebase & AI integrations
 - 🔥 Always building products that create impact
 - 🎯 Focused on performance optimization & smooth UX
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
