@@ -114,39 +114,13 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"/> Live GitHub Analytics
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"/> GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushAU20B1009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAU20B1009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAU20B1009&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"/> Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"/> Detailed GitHub Metrics
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushAU20B1009&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushAU20B1009&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushAU20B1009&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushAU20B1009&theme=tokyonight" />
 
 </div>
 
@@ -157,6 +131,16 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,nodejs,js,ts,python,mongodb,firebase,html,css&perline=6" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"/> Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAU20B1009&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -227,7 +211,7 @@ MongoDB • Express • React • Node.js
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushAU20B1009&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushAU20B1009&theme=tokyonight" />
 
 </div>
 
