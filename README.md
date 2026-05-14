@@ -55,7 +55,13 @@
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/> About Me
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img 
+  align="right" 
+  alt="Coding" 
+  width="350" 
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  style="margin-top:-10px;"
+/>
 
 - 🚀 Flutter Developer & Full-Stack Engineer from India 🇮🇳
 - 💡 Building scalable mobile & web applications
